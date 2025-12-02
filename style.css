@@ -7,8 +7,9 @@ body {
     background-color: yellow;
     padding: 15px;
     margin-bottom: 10px;
-    border: 2px solid orange;
+    border: 5px solid orange;
     color: red;
+     height: 20px;
 }
 
 #vung2 {
@@ -16,14 +17,16 @@ body {
     color: darkblue;
     padding: 15px;
     margin-bottom: 10px;
-    border: 2px solid blue;
+    border: 5px solid blue;
     color: yellow;
+     height: 70px;
 }
 
 #vung3 {
     background-color: lightcoral; 
     color: #333;
     padding: 15px;
-    border: 2px solid red;
+    border: 5px solid red;
     color: white;
+    height: 20px;
 }
