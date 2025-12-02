@@ -10,6 +10,7 @@ body {
     border: 5px solid orange;
     color: red;
      height: 20px;
+      box-sizing: border-box;
 }
 
 #vung2 {
